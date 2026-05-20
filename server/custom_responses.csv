@@ -1,0 +1,18 @@
+emotion,chat,response
+positive,i got a new job,"Congratulations on the new job! That’s a fantastic achievement!"
+positive,i passed my exam,"Well done! Your hard work paid off."
+positive,i feel great today,"That's wonderful to hear! Keep shining."
+positive,i got promoted,"Congratulations! You totally deserve it."
+positive,my project got accepted,"That's amazing news. Great job!"
+
+neutral,just checking in,"Thanks for checking in. How can I assist you today?"
+neutral,i’m not sure what to say,"Take your time. I'm here if you want to talk."
+neutral,what’s the weather like,"I can’t give weather updates, but I hope it’s nice where you are."
+neutral,i want to talk,"Of course, I'm listening. What's on your mind?"
+neutral,i have a question,"Sure, go ahead and ask your question."
+
+negative,i feel sad today,"I'm really sorry you're feeling that way. Would you like to talk more?"
+negative,i failed my exam,"I'm sorry to hear that. Remember, failure is part of learning. You can bounce back!"
+negative,i’m stressed out,"That sounds overwhelming. Want to take a moment to breathe?"
+negative,i feel lonely,"I hear you. You’re not alone, I’m here to listen."
+negative,i’m not okay,"Thank you for sharing. It’s okay not to be okay. I’m here for you."

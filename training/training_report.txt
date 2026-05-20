@@ -1,0 +1,74 @@
+Class Labels:
+['negative', 'neutral', 'positive']
+
+Dataset Sizes:
+Training samples: 9897
+Validation samples: 2828
+Testing samples: 1414
+
+Label Distribution (Train):
+label
+0    4900
+1      97
+2    4900
+
+Label Distribution (Validation):
+label
+0    1400
+1      28
+2    1400
+
+Label Distribution (Test):
+label
+0    700
+1     14
+2    700
+
+
+====== Train Set Evaluation ======
+              precision    recall  f1-score   support
+
+    negative       0.99      0.99      0.99      4900
+     neutral       1.00      0.94      0.97        97
+    positive       0.99      0.99      0.99      4900
+
+    accuracy                           0.99      9897
+   macro avg       1.00      0.98      0.99      9897
+weighted avg       0.99      0.99      0.99      9897
+
+Confusion Matrix (Train):
+[[4875    0   25]
+ [   3   91    3]
+ [  26    0 4874]]
+
+====== Validation Set Evaluation ======
+              precision    recall  f1-score   support
+
+    negative       0.80      0.81      0.80      1400
+     neutral       0.59      0.46      0.52        28
+    positive       0.80      0.80      0.80      1400
+
+    accuracy                           0.80      2828
+   macro avg       0.73      0.69      0.71      2828
+weighted avg       0.80      0.80      0.80      2828
+
+Confusion Matrix (Validation):
+[[1128    2  270]
+ [   2   13   13]
+ [ 274    7 1119]]
+
+====== Test Set Evaluation ======
+              precision    recall  f1-score   support
+
+    negative       0.81      0.81      0.81       700
+     neutral       0.78      0.50      0.61        14
+    positive       0.81      0.82      0.81       700
+
+    accuracy                           0.81      1414
+   macro avg       0.80      0.71      0.75      1414
+weighted avg       0.81      0.81      0.81      1414
+
+Confusion Matrix (Test):
+[[570   1 129]
+ [  3   7   4]
+ [128   1 571]]
