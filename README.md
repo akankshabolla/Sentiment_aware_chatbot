@@ -302,9 +302,7 @@ Akanksha Bolla
 Master's in Computer Science  
 Texas A&M University–Corpus Christi
 
-LinkedIn:
 
-https://www.linkedin.com/in/YOUR-LINKEDIN/
 
 ---
 
